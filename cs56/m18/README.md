@@ -1,7 +1,7 @@
 # Names
 * Sasha
 * Xinyi
-* Angie
+* Enji
 * Sean
 * Sarita
 * Siqi
