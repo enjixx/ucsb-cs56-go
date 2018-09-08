@@ -1,8 +1,82 @@
 Questions:  
 1. Do you want to go to North California or South California? (SoCal or NorCal)
 2. How far are you willing to travel? ( <50mi, 50-100mi..)
-2. What is your budget for the trip? (<$100, $100-$500, $500-$1000)
-3. Do you prefer outdoor or indoor?  (outdoor/indoor)
-4. What climate do you prefer? (Sunny+Hot, Mild, Warm+Breezy, Chilly/windy)
-5. Do yo prefer crowded places or quiet places? ( crowded/quiet)
-8. Do you prefer urban environment or nature? ( nature/urban)
+3. What is your budget for the trip? (<$100, $100-$500, $500-$1000)
+4. Do you prefer urban environment or nature? ( nature/urban)
+
+
+CITY NAMES:
+_SoCal_
+ *Malibu: 80 mi
+ *Santa Monica: 100 mi
+ *Los Angeles: 105 mi
+ *San Diego: 230 mi
+ *Palm Springs: 213mi
+
+ _NorCal_
+ *Santa Cruz: 260 mi
+ *San Jose: 280 mi
+ *Yosemite: 300 mi
+ *San Francisco : 330 mi
+ *Lake Tahoe : 500 mi
+ 
+ Mileage: 
+ NC: close( 260mi ) - far ( 500 mi) -> any number in between these two and give the closest location as an result
+ SC: close( 80 mi)  - far (230 mi ) -> \
+ 
+BUDGET
+ SC: close                            
+ -cheap
+ *Malibu beach (Nature)
+ *Hollywood sign (Urban)
+ *Walk of Fame (Urban)
+ *Santa Monica Board Walk (urban)
+
+ -expensive
+ *DisneyLand (Urban)
+ *Universal Studio (urban)
+ *The grove (urban)
+ 
+ 
+ SC: far
+ -cheap
+ *Balboa Park (nature)
+ *Palm Spring Aerial Trampway (nature)
+ 
+ -expensive
+ *San Diego Zoo (urban)
+ *SeaWorld San Diego (urban)
+ 
+ NC: close
+ -Cheap
+ *Santa Cruz Boardwalk (urban) 
+ *Mission Peak Hiking Trail (nature)
+  
+ -expensive
+ *Yosemite Valley camping (nature)
+ 
+ NC: far
+ -Cheap
+ *Golden Gate Bridge (urban)
+ *Japanese Tea Garden (nature)
+ *Alcatraz Island (urban)
+ *Golden gate park (nature)
+ *Palace of Fine Arts Theatre (urban)
+ *Lake Tahoe beach (nature)
+ 
+ -expensive
+ *Pier 39 (urban)
+ *Ice Cream Museum (urban)
+ *Legion Of Honor  (urban)
+ *San Francisco Museum of Modern Art (urban)
+ *California Academy of Sciences (urban)
+ *Lake Tahoe ski (nature)
+ *Lake Tahoe camping (nature) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
